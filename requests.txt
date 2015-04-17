@@ -1,0 +1,98 @@
+spawning new thread! 
+Server started 80
+entering loop 
+recieved request
+doesn't match with sscanf call! 
+ stats: GET http://www.diddukewin.com/ HTTP/1.1
+Host: 3 
+GET http://www.diddukewin.com/ HTTP/1.1
+Host: www.diddukewin.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+ 321 
+newUrl createdrequest sent 321 
+waiting for response: 
+send that shouldnt be there: HTTP/1.1 200 OK
+Date: Fri, 17 Apr 2015 06:15:09 GMT
+Server: Apache/2.2
+Content-Length: 1797
+Content-Type: text/html
+Via: 1.1 edge4.phxe.nearlyfreespeech.net (squid)
+Connection: keep-alive
+
+<!--[if lt IE 7 ]>
+<html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html> <!--<![endif]-->
+<head>
+    <title>Did Duke Win?</title>
+    <link rel=stylesheet HREF="style.css" TYPE="text/css">
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-19863935-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+</head>
+<body>
+
+<div id='middle'><p class='yes'>YES</p><p><a href='http://espn.go.com/ncb/recap?gameId=400788981&version=mobile&teamId=150'>W 68-63</a></p><p><div id='social'><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.diddukewin.com&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowTransparency="true" id='fb'></iframe></p><p id='twitter'><a href="https://twitter.com/diddukewin" class="twitter-follow-button" data-show-count="false">Follow @diddukewin</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div></div>
+</body>
+</html> 
+waiting for response: 
+send that shouldnt be there: HTTP/1.1 200 OK
+Date: Fri, 17 Apr 2015 06:15:09 GMT
+Server: Apache/2.2
+Content-Length: 1797
+Content-Type: text/html
+Via: 1.1 edge4.phxe.nearlyfreespeech.net (squid)
+Connection: keep-alive
+
+<!--[if lt IE 7 ]>
+<html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html> <!--<![endif]-->
+<head>
+    <title>Did Duke Win?</title>
+    <link rel=stylesheet HREF="style.css" TYPE="text/css">
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-19863935-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+</head>
+<body>
+
+<div id='middle'><p class='yes'>YES</p><p><a href='http://espn.go.com/ncb/recap?gameId=400788981&version=mobile&teamId=150'>W 68-63</a></p><p><div id='social'><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.diddukewin.com&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" styl
