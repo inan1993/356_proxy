@@ -123,7 +123,7 @@ void* handleRequests(void* data){
 		while (1) {		
 		printf("waiting for response: \n");
 		int response_len = read(serveSock, response, MAX_MSG_LENGTH);
-		int s = send(receive, response, MAX_MSG_LENGTH,0);
+		int s = send(receive, request, MAX_MSG_LENGTH,0);
 		printf("send that shouldnt be there: %d \n", s);
 		//printf("received response: %s \n", response);
 		//receive = accept(sock, NULL,NULL);
